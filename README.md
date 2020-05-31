@@ -1,4 +1,4 @@
-
+#Minha primeira pagina githun
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -7,8 +7,7 @@
     <title>Um pouco sobre Henrique</title>
 </head>
 <body>
-    <h1>Meu nome é Henrique Ribeiro tenho 19 anos sempre gostei muito de tudo relacionado a jogos o que me interessou no curso, Curso Ciência da Computação, sou formado em Eletrotecnica pelo SENAI,e cada vez mais fico curioso sobre esse mundo tao abragente que é a tecnologia.</h1>
-    
-    <h2> Já fiz cursos online de Java script , HTLM e Python, linguagens diferentes que me interessei muito e quero pesquisar mais sobre algumas dela<h2>
+    <h1> Meu nome é Henrique Ribeiro tenho 19 anos sempre gostei muito de tudo relacionado a jogos o que me interessou no curso, Curso Ciência da Computação, sou formado em Eletrotecnica pelo SENAI,e cada vez mais fico curioso sobre esse mundo tao abragente que é a tecnologia.</h1>
+    <h2> Já fiz cursos online de Java script , HTLM e Python, linguagens diferentes que me interessei muito e quero pesquisar mais sobre algumas dela <h2>
 </body>
 </html>
