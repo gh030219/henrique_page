@@ -9,7 +9,8 @@
 </head>
 <body>
     <h1> Meu nome é Henrique Ribeiro tenho 19 anos sempre gostei muito de tudo relacionado a jogos o que me interessou no curso, Curso Ciência da Computação, sou formado em Eletrotecnica pelo SENAI,e cada vez mais fico curioso sobre esse mundo tao abragente que é a tecnologia.</h1>
-    ![eu](https://github.com/gh030219/henrique_page/blob/master/eu.jpg)
+    
+ ![eu](https://github.com/gh030219/henrique_page/blob/master/eu.jpg)
    
     <title2> CURIOSIDADES</title2>
     
