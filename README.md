@@ -12,7 +12,7 @@
     
  ![eu](https://github.com/gh030219/henrique_page/blob/master/eu.jpg)
    
-    <title2> CURIOSIDADES</title2>
+
     
     <h2> Já fiz cursos online de Java script , HTLM e Python, linguagens diferentes que me interessei muito e quero pesquisar mais sobre algumas dela <h2>
 </body>
