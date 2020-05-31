@@ -1,4 +1,4 @@
-#Minha primeira pagina githun
+#Minha primeira pagina github
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
