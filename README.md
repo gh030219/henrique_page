@@ -14,6 +14,6 @@
    
 
     
-    <h2> Já fiz cursos online de Java script , HTLM e Python, linguagens diferentes que me interessei muito e quero pesquisar mais sobre algumas dela<h2>
+    <h2> Já fiz cursos online de Java script , HTLM e Python, linguagens diferentes que me interessei muito e quero pesquisar mais sobre algumas delas, fiz curos na udemy e curso online de inglês, meu sonho um dia é ir pra outro país<h2>
 </body>
 </html>
